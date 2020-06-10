@@ -6,7 +6,7 @@ jobs:
    environment:
       GIT_EMAIL: 'sathamhussain.m11@gmail.com'
       GIT_NAME: 'Sathamspot'
-      VERSION: '2.9.0'
+      VERSION: '2.9.1'
       PBRP_MANIFEST: 'android-9.0'
       VENDOR: 'realme'
       DEVICE: 'RMX1901'
