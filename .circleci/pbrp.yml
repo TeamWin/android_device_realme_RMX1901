@@ -4,12 +4,12 @@ jobs:
    docker:
       - image: ubuntu:18.04
    environment:
-      GIT_EMAIL: 'raza231198@gmail.com'
-      GIT_NAME: 'MD RAZA'
+      GIT_EMAIL: 'sathamhussain.m11@gmail.com'
+      GIT_NAME: 'Sathamspot'
       VERSION: '2.9.0'
       PBRP_MANIFEST: 'android-9.0'
-      VENDOR: 'asus'
-      DEVICE: 'X00P'
+      VENDOR: 'realme'
+      DEVICE: 'RMX1901'
    steps:
       - run:
           command: |
